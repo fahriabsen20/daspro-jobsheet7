@@ -6,7 +6,7 @@ public class KafeDoWhile12 {
         int kopi, teh, roti;
         String namaPelanggan;
         int hargaKopi = 12000;
-        int hargaTeh = 12000;
+        int hargaTeh = 7000;
         int hargaRoti = 20000;
         int totalHarga;
 
